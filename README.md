@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/39QJ7KkN3L8LLqQqsO85W1?si=9f66985fadcd4c5a)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Himesh Spotify Playing" width="350" />](https://open.spotify.com/track/39QJ7KkN3L8LLqQqsO85W1?si=9f66985fadcd4c5a)
 
 ### Connect with me:
 
