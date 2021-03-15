@@ -1,10 +1,11 @@
 ### - 👋 Hi, there I’m Himesh Parashar
 - 👀 I’m interested in Full Stack WebDev , Web Desinging , Ethical Hacking , Bug Hunting , Bash & Python Scripting , Content Writing
-- 🌱 I’m currently learning Web Development...
+- 🌱 I’m currently learning Web Development & anything I love 🤣...
 - 💞️ I’m looking to collaborate on Nothing.
 - Currently maintaing https://www.techiebank.live
 - 📫 How to reach me himeshparasharsh@protonmail.com
-
+-  ⚡ Fun fact: I am a Fitness freak too !...
+ - 🥅 2021 Goals: Wants to learn Building Advanced Web Apps And Flutter..
 <!---
 himeshparashar/himeshparashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,9 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=TechieBank&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.techiebank.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
