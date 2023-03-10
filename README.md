@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Website](https://img.shields.io/website?label=TechieBank&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://techziebank.blogspot.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]([[https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr](https://www.linkedin.com/in/himesh-parashar-a7a206217/)](https://twitter.com/himesh_dev))
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/himesh_dev)
 
-## I'm a Student, a Lerner, a Developer, and Inquisitive!!
+## I'm a Student, a Learner, a Developer, and Inquisitive!!
 
 
 ### Youtube Channel
@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 ### Connect with me:
 
 [<img align="left" alt="Techiebank.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Bank Of Technology | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Himesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Himesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Himesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
