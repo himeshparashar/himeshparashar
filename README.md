@@ -63,7 +63,7 @@ I'm a Full Stack Developer, Machine Learning Enthusiast, and an Inquisitive Lear
 ![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square)
 ![Monorepo](https://img.shields.io/badge/-Monorepo-black?style=flat-square)
 
-## 🛠️ Projects
+## 🛠️ Side-Projects
 
 ### [Stynxt](https://github.com/himeshparashar/stynxt)
 An AI Sales Representative that automates and optimizes your sales process.
@@ -71,15 +71,24 @@ An AI Sales Representative that automates and optimizes your sales process.
 ### [Social Morph](https://github.com/himeshparashar/social-morph)
 Generate engaging social media content in minutes with AI.
 
+### [Dev Pair](https://github.com/himeshparashar/dev-pair)
+Find you coding buddy
+
+### [Freedemy](https://github.com/himeshparashar/freedemy)
+Free udemy courses
+
+### [Glide Chats](https://github.com/himeshparashar/glide-chats)
+Automate your Instagram
+
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himeshparashar&show_icons=true&theme=radical" alt="Himesh's GitHub Stats"/>
-</p>
+<table align="center" style="border: 0;">
+  <tr>
+    <td style="border: 0; padding: 0;"><img src="https://github-readme-stats.vercel.app/api?username=himeshparashar&show_icons=true&theme=radical" alt="Himesh's GitHub Stats"/></td>
+    <td style="border: 0; padding: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeshparashar&layout=compact&theme=radical" alt="Top Languages"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeshparashar&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ## 📫 How to reach me
 
