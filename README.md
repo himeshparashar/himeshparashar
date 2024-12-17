@@ -1,68 +1,94 @@
-# - 👋 Hi, there I’m Himesh Parashar
-- 👀 I’m interested in Full Stack WebDev , Web Desinging , Ethical Hacking , Bug Hunting , Bash & Python Scripting , Content Writing
-- 🌱 I’m currently learning Flutter & anything I love 🤣...
-- 💞️ I’m looking to collaborate on Nothing.
-- 📫 How to reach me himeshparasharsh@protonmail.com
--  ⚡ Fun fact: I am a Fitness freak too !...
- - 🥅 2023 Goals: Want to become CEH, and OSCP.
-<!---
-himeshparashar/himeshparashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Header -->
+<h1 align="center">Hi there, I'm Himesh Parashar 👋</h1>
 
+<p align="center">
+  <a href="https://himeshparashar.com"><img src="https://img.shields.io/badge/Website-himeshparashar.com-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="himeshparashar424@gmail.com"><img src="https://img.shields.io/badge/Email-himeshparashar424%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/himeshparashar"><img src="https://img.shields.io/badge/LinkedIn-Himesh%20Parashar-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/himesh_dev"><img src="https://img.shields.io/twitter/follow/himesh_dev?style=flat-square&logo=twitter"></a>
+  <a href="https://instagram.com/himeshig"><img src="https://img.shields.io/badge/Instagram-himeshig-purple?style=flat-square&logo=instagram"></a>
+</p>
 
+<!-- About Me -->
+## 👨‍💻 About Me
 
+I'm a Full Stack Developer, Machine Learning Enthusiast, and an Inquisitive Learner from India.
 
-[![Website](https://img.shields.io/website?label=TechieBank&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://techziebank.blogspot.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/himesh_dev)
+- 🔭 I’m currently working on **LLM Agents** and **AI-driven applications**.
+- 🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence**, and **anything that excites me**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 💬 Ask me about **Web Development**, **Backend Systems**, or **AI**.
+- ⚡ Fun fact: I'm a fitness freak too! 🏋️‍♂️
 
-## I'm a Student, a Learner, a Developer, and Inquisitive!!
+## 💼 Technical Skills
 
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-### Youtube Channel
-[![](http://img.youtube.com/vi/lkHcDhNFcLo/0.jpg)](http://www.youtube.com/watch?v=lkHcDhNFcLo "Attackers Taking Down Internet !! DOS and DDOS Attack Explained |")
+### Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
 
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=rest)
 
-### Connect with me:
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 
-[<img align="left" alt="Techiebank.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Himesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Himesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Himesh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
-<br />
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc)
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=socket.io)
 
-### Languages and Tools:
+### Other
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square)
+![Monorepo](https://img.shields.io/badge/-Monorepo-black?style=flat-square)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 🛠️ Projects
 
-<br />
-<br />
+### [Stynxt](https://github.com/himeshparashar/stynxt)
+An AI Sales Representative that automates and optimizes your sales process.
 
+### [Social Morph](https://github.com/himeshparashar/social-morph)
+Generate engaging social media content in minutes with AI.
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himeshparashar&show_icons=true&theme=radical" alt="Himesh's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeshparashar&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+## 📫 How to reach me
+
+- **Email**: himeshparashar424@gmail.com
+- **Website**: [himeshparashar.com](https://himeshparashar.com)
+- **Twitter**: [@himesh_dev](https://twitter.com/himesh_dev)
+- **LinkedIn**: [Himesh Parashar](https://linkedin.com/in/himeshparashar)
+
+<!-- Footer -->
 ---
 
-
----
-
-
-[website]: https://techiebank.live
-[course]: https://techiebank.live
-[twitter]: https://twitter.com/himesh_dev
-[instagram]: https://instagram.com/himeshig?igshid=ZDdkNTZiNTM=
-[linkedin]: https://www.linkedin.com/in/himesh-parashar-a7a206217/
-
+⭐️ From [Himesh Parashar](https://github.com/himeshparashar)
