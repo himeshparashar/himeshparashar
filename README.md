@@ -65,20 +65,14 @@ I'm a Full Stack Developer, Machine Learning Enthusiast, and an Inquisitive Lear
 
 ## 🛠️ Side-Projects
 
-### [Stynxt](https://github.com/himeshparashar/stynxt)
-An AI Sales Representative that automates and optimizes your sales process.
+| Project Name                                               | Description                  |
+| ---------------------------------------------------------- | ---------------------------- |
+| [Stynxt](https://styxnet.vercel.app/)   | An AI Sales Representative that automates and optimizes your sales process.  |
+| [Social Morph](https://socialmorph.co/)      | Generate engaging social media content in minutes with AI.   |
+| [Dev Pair](https://github.com/himeshparashar/dev-pair)     | Find you coding buddy |
+| [Freedemy](https://freedemy.onrender.com/)    |Free udemy courses|
+|[Glide Chats](https://glide-chats.vercel.app/) |Automate your Instagram|
 
-### [Social Morph](https://github.com/himeshparashar/social-morph)
-Generate engaging social media content in minutes with AI.
-
-### [Dev Pair](https://github.com/himeshparashar/dev-pair)
-Find you coding buddy
-
-### [Freedemy](https://github.com/himeshparashar/freedemy)
-Free udemy courses
-
-### [Glide Chats](https://github.com/himeshparashar/glide-chats)
-Automate your Instagram
 
 ## 📈 GitHub Stats
 
